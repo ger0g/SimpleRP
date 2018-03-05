@@ -1,2 +1,2 @@
 # SimpleRP
-Dont Mess With The Base Classes! Capische?!
+Dont Mess With The Base Classes! Capeachrings?!
