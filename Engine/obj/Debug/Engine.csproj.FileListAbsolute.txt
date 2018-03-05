@@ -1,0 +1,5 @@
+\\H0436SFS02\Home$\Students\9427504\My Documents\Visual Studio 2010\Projects\SimpleRPG\Engine\bin\Debug\Engine.dll
+\\H0436SFS02\Home$\Students\9427504\My Documents\Visual Studio 2010\Projects\SimpleRPG\Engine\bin\Debug\Engine.pdb
+\\H0436SFS02\Home$\Students\9427504\My Documents\Visual Studio 2010\Projects\SimpleRPG\Engine\obj\Debug\Engine.dll
+\\H0436SFS02\Home$\Students\9427504\My Documents\Visual Studio 2010\Projects\SimpleRPG\Engine\obj\Debug\Engine.pdb
+\\H0436SFS02\Home$\Students\9427504\My Documents\Visual Studio 2010\Projects\SimpleRPG\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
